@@ -1,4 +1,4 @@
-# Jason Braun
+# Custom Shopify development
 
 Shopify developer in Austin, Texas, and founder of [Braun Design Co](https://braundesign.co).
 
