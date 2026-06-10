@@ -9,6 +9,6 @@ Right now I'm focused on AI Search Optimization (AEO and AISO) and agentic store
 ## Links
 
 - Agency: [braundesign.co](https://braundesign.co)
-- Braun Design Co on GitHub: [github.com/your-org](https://github.com/your-org)
+- Braun Design Co on GitHub: [github.com/braundesignco](https://github.com/braundesignco)
 - LinkedIn: [linkedin.com/in/-jasonbraun](https://www.linkedin.com/in/-jasonbraun)
 - Book a call: [braundesign.co/meet30](https://braundesign.co/meet30)
